@@ -1,0 +1,20 @@
+PODS:
+  - Realm (1.0.2):
+    - Realm/Headers (= 1.0.2)
+  - Realm/Headers (1.0.2)
+  - RealmSwift (1.0.2):
+    - Realm (= 1.0.2)
+  - SQLite.swift (0.10.1)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SQLite.swift (~> 0.10.1)
+
+SPEC CHECKSUMS:
+  Realm: 9d5c46a4d7d27958530a8dfc58f63a99e5c2cba3
+  RealmSwift: 82f3ac5e24530143dddfde2033acc0d308f27d96
+  SQLite.swift: 6a6e4b034efc317ce4e203b6af2d3024fee2b570
+
+PODFILE CHECKSUM: e8be29299c72e693da00ae2f92f0a4de96be8746
+
+COCOAPODS: 1.0.1
